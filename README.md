@@ -55,6 +55,8 @@ AndJump的demo,支持activity与fragment直接传值
            这个类名的规则是以Qt+类名
            
            
+           更多使用方法请参照Demo
+           
          
 
 
