@@ -1,6 +1,7 @@
 # andJumpDemo
 AndJump的demo,支持activity与fragment直接传值
-
+ 
+ 编译时注解，不影响效率，支持调试。
 
 
 使用方法:
